@@ -23,7 +23,7 @@ namespace prg
 			sf::Event         m_window_events;
 			bool              m_running;
 
-		private: // Game objects
+		private: // Gameobjects
 			game::Player        m_player;
 			game::LevelManager  m_level_manager;
 			game::EnemyManager  m_enemy_manager;
