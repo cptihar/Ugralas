@@ -5,14 +5,14 @@
 #include <vector>
 #include "Constants.h"
 
-#define  ROWS		WINDOW_HEIGHT / BLOCK_SIZE
+#define  ROWS	    WINDOW_HEIGHT / BLOCK_SIZE
 #define  COLUMNS    WINDOW_WIDTH  / BLOCK_SIZE
 
 // Colors
 #define DEFAULT_COLOR sf::Color::Yellow
 
-#define GRASS_COLOR			   sf::Color(87, 250, 2)
-#define ROAD_COLOR			   sf::Color(92, 92, 92)
+#define GRASS_COLOR	       sf::Color(87, 250, 2)
+#define ROAD_COLOR	       sf::Color(92, 92, 92)
 #define ROAD_SPEPARATOR_COLOR  sf::Color::White //sf::Color(232, 184, 9)
 
 // Ids
